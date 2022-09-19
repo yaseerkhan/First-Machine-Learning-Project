@@ -1,4 +1,4 @@
-# First-Machine-Learning-Project
+# Notes I Took While Going Through The Course. A Little Messy But I Guess It Might Help For Newbs.
 
  Machine Learning With Python
 
