@@ -1,9 +1,8 @@
-# Notes i made while going through the crash course of pyhton.
+# Notes i took while going through the crash course of python. it all got messy , download this file for better readability.
 Course Link: https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh
 
-Machine Learning With Python
-
 Environment Used : Jupyter
+Library Used : SciKit-Learn
 Algorithm used : DecisionTree
 
 When working with machine learning projects we use an environment called jupyter for writing our code. technically we can still use VScode or any other code editors but these editors are not idle for machine learning projects because we frequetly need to inspect the data and that is really hard in envs like VScode and terminal, if we are working with a table of 10 or 20 cols visualising these data in a terminal window is really diffcult and messy so thats why we use jupyter. It makes it really easy to inspect our data
