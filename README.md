@@ -1,4 +1,4 @@
-# Notes I Took While Going Through The Course. A Little Messy But I Guess It Might Help For Newbs.
+# Notes I Took While Going Through The Course Of Python. A Little Messy But I Guess It Might Help For Newbs. Download This File For Better Readability.
 
  Machine Learning With Python
 
