@@ -189,7 +189,7 @@ How to 1. prepare the data and 2. clean the data such as removing duplicates
                         rounded=True,
                         filled=True)
 
-# Open the file using vscode, To visualise the graph in file we need to install an extention in vscode called Graphviz(dot) language. After Installing click on top right corner of vscode and click on "open preview to the side" we'll get the visualization.
+# Open the file using vscode, To visualise the graph in file we need to install an extention in vscode called Graphviz(dot) language. After Installing click on top right corner of vscode and then click on "open preview to the side" we'll get the visualization.
 
 # Explanation of Graph  
 
