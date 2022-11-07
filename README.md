@@ -1,4 +1,4 @@
-# Notes i took while going through the crash course of python. it all got messy , download this file for better readability.
+# Notes i took while going through the crash course of python. Notes are messey, also download this file for better readability.
 Course Link: https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh
 
 Environment Used : Jupyter
