@@ -8,7 +8,7 @@ Algorithm used : DecisionTree
 When working with machine learning projects we use an environment called jupyter for writing our code. technically we can still use VScode or any other code editors but these editors are not idle for machine learning projects because we frequetly need to inspect the data and that is really hard in envs like VScode and terminal, if we are working with a table of 10 or 20 cols visualising these data in a terminal window is really diffcult and messy so thats why we use jupyter. It makes it really easy to inspect our data
 
 Libraries- 
-1. Numpy (Very popular libraly): Provides a multi-dimensional array 
+1. Numpy (Very popular library): Provides a multi-dimensional array 
 2. Pandas (Very popular in machine learning and datascience projects) : Data Analysis library that provide a concept called DataFrame. A DataFrame is a 2-dimensional data structure similar to an excel spreadsheet, so we have rows and columns, we can select data in a row or column or range of rows and columns
 3. MatplotLib : A 2-dimensional plotting library for creating graphs and plots
 4. SciKit-Learn(one of the most popular machine learning libraries) : Provides all the common algorithms like Decision-Tree, Neural-Network and so on
