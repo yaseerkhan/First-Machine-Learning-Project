@@ -1,16 +1,16 @@
-# Notes i took while going through the crash course of python. Notes are messey, also download this file for better readability.
+# Notes i took while going through the crash course of python. Notes format got messed up as i wrote all of this in SUBLIME TEXT, also download this file for better readability.
 Course Link: https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh
 
-Environment Used : Jupyter
-Library Used : SciKit-Learn
-Algorithm used : DecisionTree
+Environment Used: Jupyter
+Library Used: SciKit-Learn
+Algorithm used: DecisionTree
 
-When working with machine learning projects we use an environment called jupyter for writing our code. technically we can still use VScode or any other code editors but these editors are not idle for machine learning projects because we frequetly need to inspect the data and that is really hard in envs like VScode and terminal, if we are working with a table of 10 or 20 cols visualising these data in a terminal window is really diffcult and messy so thats why we use jupyter. It makes it really easy to inspect our data
+When working with machine learning projects we use an environment called jupyter for writing our code. technically we can still use VScode or any other code editors but these editors are not idle for machine learning projects because we frequently need to inspect the data and that is really hard in envs like VScode and terminal, if we are working with a table of 10 or 20 cols visualizing these data in a terminal window is really difficult and messy so that's why we use jupyter. It makes it really easy to inspect our data
 
 Libraries- 
 1. Numpy (Very popular library): Provides a multi-dimensional array 
-2. Pandas (Very popular in machine learning and datascience projects) : Data Analysis library that provide a concept called DataFrame. A DataFrame is a 2-dimensional data structure similar to an excel spreadsheet, so we have rows and columns, we can select data in a row or column or range of rows and columns
-3. MatplotLib : A 2-dimensional plotting library for creating graphs and plots
+2. Pandas (Very popular in machine learning and data science projects) : Data Analysis library that provides a concept called DataFrame. A DataFrame is a 2-dimensional data structure similar to an Excel spreadsheet, so we have rows and columns, we can select data in a row or column or range of rows and columns
+3. MatplotLib: A 2-dimensional plotting library for creating graphs and plots
 4. SciKit-Learn(one of the most popular machine learning libraries) : Provides all the common algorithms like Decision-Tree, Neural-Network and so on
 
 
@@ -18,8 +18,8 @@ Libraries-
 Steps to install Jupyter:
 1. Go to https://www.anaconda.com/products/distribution and download Anaconda Distribution. It includes jupyter and other tools to work with.
 2. After installing Anaconda, Launch it and launch jupyter from there OR open anaconda prompt/terminal -> type "jupyter notebook" it will launch jupyter.
-3. We will get jupyter dashboard , from there navigate to where ever you want to place the project. In my case i created a folder on desktop and navigated there. 
-4. Import a dataset from .csv file in jupyter, for that download a dataset from a very popular site https://kaggle.com , after visiting we have to signup to download anything, Search for video game sales very first result would be from gregory smith with some redish thumbnail download that dataset and place it in the project folder.
+3. We will get jupyter dashboard , from there navigate to wherever you want to place the project. In my case I created a folder on the desktop and navigated there. 
+4. Import a dataset from .csv file in jupyter, for that download a dataset from a very popular site https://kaggle.com , after visiting we have to sign in to download anything, Search for video game sales very first result would be from gregory smith with some redish thumbnail download that dataset and place it in the project folder.
 
 5. Go back to jupyter notebook and code :
 
