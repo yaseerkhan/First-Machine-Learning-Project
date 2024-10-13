@@ -174,13 +174,13 @@ How to 1. prepare the data and 2. clean the data such as removing duplicates
  model = DecisionTreeClassifier()
  model.fit(X.values, y)
 
- # We need to pass few arguments , first argument is model, 
- # out_file is name of the output file, here we gonna use keyword argument because this method take so many parameters and we wanna selectively pass keywords arguments without worrying about their order .dot format is a graph description language, 
- # feature_names parameter we set this to an array of 2 strings age and gender these are the features or the columns of our dataset so they are the properties or features of our data. 
- # class_names parameter we should set this to the list of classes or labels we have in our output dataset like hiphop, jazz, classical and so on. y dataset includes all the classes or genre of our data but they are repeated few times in this dataset so we use .unique() this returns the unique list of classes we used sorted to sort it alphabetically. 
- # label='all' so every node have label that we can read i.e numbering
- # rounded to true so box or nodes have rounded corners
- # filled to true so each box so each box or node is filled with color 
+ - We need to pass few arguments , first argument is model, 
+ - out_file is name of the output file, here we gonna use keyword argument because this method take so many parameters and we wanna selectively pass keywords arguments without worrying about their order .dot format is a graph description language, 
+ - feature_names parameter we set this to an array of 2 strings age and gender these are the features or the columns of our dataset so they are the properties or features of our data. 
+ - class_names parameter we should set this to the list of classes or labels we have in our output dataset like hiphop, jazz, classical and so on. y dataset includes all the classes or genre of our data but they are repeated few times in this dataset so we use .unique() this returns the unique list of classes we used sorted to sort it alphabetically. 
+ - label='all' so every node have label that we can read i.e numbering
+ - rounded to true so box or nodes have rounded corners
+ - filled to true so each box so each box or node is filled with color 
 
  tree.export_graphviz(model, out_file='music-recommender.dot',
                         feature_names=['age', 'gender'],
